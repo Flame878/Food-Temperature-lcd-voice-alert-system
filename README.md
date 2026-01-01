@@ -19,6 +19,7 @@ This project is an embedded system designed to monitor, read and print tempretur
 - The system continuously updates readings in real time and is also printed in the serial monitor.
 
   --My thought process--
+  
   This project was designed and implemented independently, including sensor integration, LCD interface design, control logic, and audio alert functionality.
   The place I work at is a resturant when we have food out we need to use a thermometer every few hours to check Temperature, Which can be tedious this came out as an idea to make the process more simple and not waste time.
 
